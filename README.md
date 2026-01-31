@@ -1,2 +1,4 @@
 # leetcode-solutions
-This repo consists of my solutons to problems I have completed so far on Leetcode. 
+This repo consists of my solutions to LeetCode problems.
+
+
